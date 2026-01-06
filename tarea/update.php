@@ -103,7 +103,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-
+<!-- Es a partir del crear -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -243,6 +243,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!-- Nota sobre campos obligatorios -->
         <div class="mt-3 text-muted">
             <small>* Campos obligatorios</small>
+        </div>
+        <div class="mt-3 text-muted">
+            <small>Lucas Alcobia</small>
         </div>
 
     </form> <!-- Fin del formulario -->

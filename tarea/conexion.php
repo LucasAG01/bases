@@ -25,4 +25,9 @@ try {
      
     Es algo más relacionado con el correcto manejo de la salida en HTML que con la seguridad de la base de datos.
     Por ejemplo, convierte caracteres como <, >, &, " y ' en sus equivalentes HTML (&lt;, &gt;, &amp;, &quot; y &#039; respectivamente).
+
+    Prettier Usado para formatear el código fuente de manera consistente y legible.
+    IA para  estilos
+
+    lucas Alcobia
 -->
