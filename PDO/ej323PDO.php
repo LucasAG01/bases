@@ -80,7 +80,7 @@ function pintarBoton(){
             echo "</td>";
             echo"</tr>"; // Etiqueta de cierre extra que podría causar error HTML
         }
-        
+                                                                        
         
     echo "</tbody>";    
     echo "</table>";
