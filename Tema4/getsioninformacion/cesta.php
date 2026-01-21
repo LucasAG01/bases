@@ -1,0 +1,1 @@
+<!-- Muestra un resumen de los productos escogidos por el usuario para su compra y da acceso a la página de pago. -->

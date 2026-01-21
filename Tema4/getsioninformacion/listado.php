@@ -1,0 +1,1 @@
+<!-- Presenta un listado de los productos de la tienda, y permite al usuario seleccionar aquellos que va a comprar.-->

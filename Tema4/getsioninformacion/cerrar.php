@@ -1,0 +1,1 @@
+<!-- Nos permitirá cerrar la sesión y nos devolverá a la página de "login". -->
