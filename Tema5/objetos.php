@@ -371,6 +371,8 @@ class Gato extends Animal implements iMuestra{
     }
 }
 
+// Los metodos deben ser publicos
+
 
 
 
