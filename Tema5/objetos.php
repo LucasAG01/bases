@@ -56,7 +56,7 @@ $p = new Producto();
 
 // Para acceder desde un objeto a sus atributos o métodos, debes usar ->
 
-$p->nombre = 'Samsung Galaxy A6'; //Asigne Producto p un nombre
+//$p->nombre = 'Samsung Galaxy A6'; //Asigne Producto p un nombre
 
 $p->muestraNombre();
 
