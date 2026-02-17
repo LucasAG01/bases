@@ -1,0 +1,23 @@
+{
+  "name": "practica/jugadores",
+  "type": "project",
+  "require": {
+    "philo/laravel-blade": "^3.1",
+    "milon/barcode": "^6.0",
+    "fzaninotto/faker": "^1.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "audit": {
+      "block-insecure": false
+    },
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
+  }
+}
